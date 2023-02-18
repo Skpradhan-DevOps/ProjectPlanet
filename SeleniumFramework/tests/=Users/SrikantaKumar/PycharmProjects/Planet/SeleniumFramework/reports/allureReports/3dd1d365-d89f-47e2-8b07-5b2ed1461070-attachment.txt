@@ -1,0 +1,2 @@
+[1m[31mERROR   [0m BaseClass:BaseClass.py:74 WebElement not found with locator value //input[@placeholder='Search for a Location'] using locatorType xpath
+[1m[31mERROR   [0m BaseClass:BaseClass.py:90 Unable to Click on WebElement with locator value //input[@placeholder='Search for a Location'] using locatorType xpath

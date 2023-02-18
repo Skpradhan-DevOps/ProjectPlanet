@@ -1,0 +1,2 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:12 Chrome Driver is initializing
+[32mINFO    [0m BaseClass:BaseClass.py:25 Web Page Launched with URL : https://www.planet.com/explorer

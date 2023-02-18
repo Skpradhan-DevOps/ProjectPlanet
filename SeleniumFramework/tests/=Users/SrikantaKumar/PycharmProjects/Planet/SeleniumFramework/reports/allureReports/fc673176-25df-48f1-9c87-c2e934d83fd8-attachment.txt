@@ -1,0 +1,10 @@
+[32mINFO    [0m BaseClass:BaseClass.py:72 WebElement found with locator value idp-discovery-username using locatorType id
+[32mINFO    [0m BaseClass:BaseClass.py:100 Sent the text takehometest@qe.com in WebElement with locator value idp-discovery-username using locatorType id
+[32mINFO    [0m BaseClass:BaseClass.py:72 WebElement found with locator value idp-discovery-submit using locatorType id
+[32mINFO    [0m BaseClass:BaseClass.py:87 Clicked on WebElement with locator value idp-discovery-submit using locatorType id
+[32mINFO    [0m BaseClass:BaseClass.py:72 WebElement found with locator value okta-signin-password using locatorType id
+[32mINFO    [0m BaseClass:BaseClass.py:100 Sent the text Password123# in WebElement with locator value okta-signin-password using locatorType id
+[32mINFO    [0m BaseClass:BaseClass.py:72 WebElement found with locator value okta-signin-submit using locatorType id
+[32mINFO    [0m BaseClass:BaseClass.py:87 Clicked on WebElement with locator value okta-signin-submit using locatorType id
+[32mINFO    [0m BaseClass:BaseClass.py:72 WebElement found with locator value //button[@data-qe='skip-tour-button'] using locatorType xpath
+[32mINFO    [0m BaseClass:BaseClass.py:87 Clicked on WebElement with locator value //button[@data-qe='skip-tour-button'] using locatorType xpath

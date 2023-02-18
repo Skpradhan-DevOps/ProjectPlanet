@@ -1,0 +1,1 @@
+[1m[31mERROR   [0m BaseClass:BaseClass.py:74 WebElement not found with locator value //label[contains(text(),'Name')]/following-sibling::div/child::input using locatorType xpath
